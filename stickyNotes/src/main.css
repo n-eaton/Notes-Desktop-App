@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Gaegu&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: rgb(32, 30, 29);
+}
+
+#app {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 334px);
+    padding: 24px;
+    gap: 24px;
+}
+
+textarea {
+    background: rgb(49, 48, 48);
+    color: aliceblue;
+    outline: none;
+}
+
+.note {
+    height: 310px;
+    box-sizing: border-box;
+    padding: 16px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 0 7px rgba(0, 0, 0, 0.15);
+    resize: none;
+    font-family: 'Gaegu', cursive;
+    font-size: 24px;
+}
+
+.add-note {
+    height: 310px;
+    border: none;
+    background: rgba(222, 222, 233, 0.1);
+    border-radius: 10px;
+    font-size: 120px;
+    color: rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.add-note:hover {
+    background: rgba(196, 195, 211, 0.2);
+
+}
+
+.add-note:active {
+    border-style: none;
+    border: 0px;
+    border-color: rgb(223, 230, 223);
+}
