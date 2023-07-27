@@ -1,10 +1,13 @@
-# Notes-Desktop-App
+# Notes-Desktop-App 
+
+Feel free to turn the music on :)
+
 This is a basic note app.  HTML, CSS, JS, Utilize local storage.
 
 
 https://github.com/n-eaton/Notes-Desktop-App/assets/93352992/fdc3f044-cd4b-4c40-bd41-88eb9bcc7083
 
-NotesApp a sleek and intuitive notes app designed for the desktop to enhance your productivity and organization. With its user-friendly interface built using HTML, CSS, and JavaScript.
+NotesApp a sleek and intuitive notes app designed for the desktop to enhance your productivity and organization. 
 
 
 NoteApp lets you effortlessly jot down and manage your thoughts, ideas, and to-do lists. The app boasts a clean and minimalist design, offering a distraction-free note-taking experience. 
